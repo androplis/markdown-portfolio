@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills
+
+- **GIT & GITHUB**
+- _Javascript_
+- CSS
+- HTML
+- __C++__
+- VS Code
